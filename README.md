@@ -5,4 +5,4 @@ Well this is the Espaçolution prototype. Made by a brazillian, in 2 hours and 4
 
 This game may get updated. Made using Game Maker Studio 2.
 
-Creation date: 08/22/2022
+Creation date: 23/08/2022 - Portuguese date!
