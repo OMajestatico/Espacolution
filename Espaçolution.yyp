@@ -1,0 +1,55 @@
+{
+  "resources": [
+    {"id":{"name":"ob_circle","path":"objects/ob_circle/ob_circle.yy",},"order":1,},
+    {"id":{"name":"sp_circle","path":"sprites/sp_circle/sp_circle.yy",},"order":0,},
+    {"id":{"name":"space","path":"sprites/space/space.yy",},"order":7,},
+    {"id":{"name":"whte","path":"sprites/whte/whte.yy",},"order":5,},
+    {"id":{"name":"game_over_music","path":"sounds/game_over_music/game_over_music.yy",},"order":1,},
+    {"id":{"name":"logo","path":"sprites/logo/logo.yy",},"order":3,},
+    {"id":{"name":"font_died","path":"fonts/font_died/font_died.yy",},"order":1,},
+    {"id":{"name":"background_music","path":"sounds/background_music/background_music.yy",},"order":0,},
+    {"id":{"name":"ob_player","path":"objects/ob_player/ob_player.yy",},"order":2,},
+    {"id":{"name":"paused","path":"sprites/paused/paused.yy",},"order":6,},
+    {"id":{"name":"ob_main","path":"objects/ob_main/ob_main.yy",},"order":0,},
+    {"id":{"name":"died","path":"sprites/died/died.yy",},"order":4,},
+    {"id":{"name":"sp_planet","path":"sprites/sp_planet/sp_planet.yy",},"order":2,},
+    {"id":{"name":"font","path":"fonts/font/font.yy",},"order":0,},
+    {"id":{"name":"sp_player","path":"sprites/sp_player/sp_player.yy",},"order":1,},
+    {"id":{"name":"main_room","path":"rooms/main_room/main_room.yy",},"order":0,},
+  ],
+  "Options": [
+    {"name":"Main","path":"options/main/options_main.yy",},
+    {"name":"Windows","path":"options/windows/options_windows.yy",},
+    {"name":"operagx","path":"options/operagx/options_operagx.yy",},
+  ],
+  "defaultScriptType": 1,
+  "isEcma": false,
+  "configs": {
+    "name": "Default",
+    "children": [],
+  },
+  "RoomOrderNodes": [
+    {"roomId":{"name":"main_room","path":"rooms/main_room/main_room.yy",},},
+  ],
+  "Folders": [
+    {"folderPath":"folders/Images.yy","order":1,"resourceVersion":"1.0","name":"Images","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Instances.yy","order":9,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Scenes.yy","order":10,"resourceVersion":"1.0","name":"Scenes","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Fonts.yy","order":13,"resourceVersion":"1.0","name":"Fonts","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Musics.yy","order":14,"resourceVersion":"1.0","name":"Musics","tags":[],"resourceType":"GMFolder",},
+  ],
+  "AudioGroups": [
+    {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
+  ],
+  "TextureGroups": [
+    {"isScaled":true,"compressFormat":"bz2","autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,"resourceVersion":"1.3","name":"Default","resourceType":"GMTextureGroup",},
+  ],
+  "IncludedFiles": [],
+  "MetaData": {
+    "IDEVersion": "2022.6.1.26",
+  },
+  "resourceVersion": "1.5",
+  "name": "Espaçolution",
+  "tags": [],
+  "resourceType": "GMProject",
+}
