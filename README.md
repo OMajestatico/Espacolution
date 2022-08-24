@@ -10,6 +10,7 @@ Creation date: 23/08/2022 - Portuguese date!
 <- How to edit the source! ->
 
 /- Git mode -\
+
 First, download Git: https://git-scm.com
 After install Git...
 Go to a empty folder, open a Command Prompt in this folder and use this comand: git clone https://github.com/OMajestatico/Espacolution.git
