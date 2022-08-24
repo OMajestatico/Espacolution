@@ -18,8 +18,7 @@ Download and install Game Maker Studio 2 any license.
 Open the project in Game Maker.
 
 /- Download mode -\
-Click in <Code> Button and Download ZIP.
+Click in Code Button and Download ZIP.
 Wait it download.
 Download and install Game Maker Studio 2 any license.
 Open the project in Game Maker.
---------------------
